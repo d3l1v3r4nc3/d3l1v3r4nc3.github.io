@@ -9,3 +9,5 @@
 ##### Test 5
 
 ###### Test 6
+
+[Go to the test 2 page](test2.md)
