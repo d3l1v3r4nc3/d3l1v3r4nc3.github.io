@@ -1,4 +1,4 @@
 # Jrypbzr
 
-[Reads](books.md)
-[TED Talks](ted.md)
+[Reads](books.md)  
+[TED Talks](ted.md)  
