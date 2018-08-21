@@ -2,7 +2,8 @@
 
 ## Should read
 
-Lean Enterprise
+[Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.adlibris.com/se/bok/lean-enterprise-how-high-performance-organizations-innovate-at-scale-9781449368425)  
+[Toyota Kata](https://www.adlibris.com/se/bok/toyota-kata-9780071635233)  
 [Clean Code](https://www.adlibris.com/se/bok/clean-code-9780132350884)
 [Continuous Delivery](https://www.adlibris.com/se/bok/continuous-delivery-9780321601919)  
 [Toyota Production System](https://www.adlibris.com/se/bok/toyota-production-system-9780915299140)  
