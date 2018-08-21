@@ -16,6 +16,8 @@
 [Lean Product and Process Development](https://www.adlibris.com/se/bok/lean-product-and-process-development-9781934109434)  
 [Detta är Lean](https://www.adlibris.com/se/bok/detta-ar-lean-losningen-pa-effektivitetsparadoxen-9789187791130)  
 [Ledarskapsmodellen](https://www.adlibris.com/se/bok/ledarskapsmodellen---konsten-att-matcha-individuella-och-organisatoriska-forutsattningar-9789144114897)  
+[The Mythical Man-Month](https://www.adlibris.com/se/bok/the-mythical-man-month-9780201835953)  
+[The Phoenix Project](https://www.adlibris.com/se/bok/the-phoenix-project-9781942788294)  
 
 ## If time permits or just want some entertainment
 
