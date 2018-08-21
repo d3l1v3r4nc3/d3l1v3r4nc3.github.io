@@ -2,6 +2,7 @@
 
 ## Should read
 
+Lean Enterprise
 [Clean Code](https://www.adlibris.com/se/bok/clean-code-9780132350884)
 [Continuous Delivery](https://www.adlibris.com/se/bok/continuous-delivery-9780321601919)  
 [Toyota Production System](https://www.adlibris.com/se/bok/toyota-production-system-9780915299140)  
