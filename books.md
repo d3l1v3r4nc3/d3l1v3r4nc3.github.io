@@ -2,6 +2,7 @@
 
 ## Should read
 
+[Factfulness](https://www.adlibris.com/se/bok/factfulness-tio-knep-som-hjalper-dig-forsta-varlden-9789127149946)  
 [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://www.adlibris.com/se/bok/lean-enterprise-how-high-performance-organizations-innovate-at-scale-9781449368425)  
 [Toyota Kata](https://www.adlibris.com/se/bok/toyota-kata-9780071635233)  
 [Clean Code](https://www.adlibris.com/se/bok/clean-code-9780132350884)
@@ -28,3 +29,7 @@
 [Stjärnklart](https://www.adlibris.com/se/bok/stjarnklart-9789174752113)  
 [Stjärnfall](https://www.adlibris.com/se/bok/stjarnfall-9789176910153)  
 [Stjärndamm](https://www.adlibris.com/se/bok/stjarndamm-9789176910801)  
+
+### Stephen King
+
+[Stephen King bibliography](https://en.wikipedia.org/wiki/Stephen_King_bibliography)  
